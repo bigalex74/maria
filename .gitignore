@@ -1,0 +1,8 @@
+# Runtime/cache
+.openclaw/
+logs/
+*.log
+
+# Local screenshots / transient media
+gemini-screenshot.png
+*.tmp
